@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DingDingContacts</string>
+    <string name="select_number_tip">已选择（%d）人</string>
+</resources>
